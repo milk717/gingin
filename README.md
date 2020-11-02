@@ -1,3 +1,0 @@
-# gingin
-
-Coding practice
